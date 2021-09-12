@@ -4,3 +4,5 @@ venv/
 .idea/
 **/__pycache__/**f
 core/migrations
+report/migrations
+calculator/migrations
